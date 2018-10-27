@@ -1,0 +1,534 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"employee",
+				"employee_id"
+			],
+			[
+				"sha",
+				"sha_hasher"
+			],
+			[
+				"employee_",
+				"employee_type"
+			],
+			[
+				"not",
+				"notify_log"
+			],
+			[
+				"R",
+				"RECORD"
+			],
+			[
+				"employ",
+				"employee_id"
+			],
+			[
+				"store",
+				"store_is_closed"
+			],
+			[
+				"Employ",
+				"EmployeeUpDt"
+			],
+			[
+				"saved",
+				"saved_ctr"
+			],
+			[
+				"empl",
+				"employee_id"
+			],
+			[
+				"tax",
+				"tax_rate_ind"
+			],
+			[
+				"has",
+				"has_one"
+			],
+			[
+				"tra",
+				"transaction_reg_num"
+			],
+			[
+				"id",
+				"code_id"
+			],
+			[
+				"get_",
+				"get_bo_opts_arry"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"re",
+				"reference_groups"
+			],
+			[
+				"refer",
+				"reference_code"
+			],
+			[
+				"f",
+				"f.	f.radio_box (ffrb)"
+			],
+			[
+				"jq",
+				"jq_titleize"
+			],
+			[
+				"title",
+				"titleize"
+			],
+			[
+				"ref",
+				"ref_group"
+			],
+			[
+				"refernce",
+				"reference_codes"
+			],
+			[
+				"edit_add_",
+				"edit_add_ship_tag"
+			],
+			[
+				"image",
+				"image_url"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 232.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/vmpss/webpss/backoffice/log/development-20181019.log",
+		"/C/vmpss/webpss/backoffice/config/database.yml",
+		"/C/vmpss/webpss/backoffice/script/process_back_office_emps.rb",
+		"/C/vmpss/webpss/backoffice/app/controllers/user_maintenance_controller.rb",
+		"/C/vmpss/webpss/backoffice/app/models/emp_auth.rb",
+		"/c/vmpss/webpss/client_smart/config/initializers/employee_adds.rb",
+		"/C/vmpss/webpss/backoffice/app/views/shared/_sql_errors.html.erb",
+		"/C/vmpss/webpss/backoffice/app/helpers/application_helper.rb",
+		"/c/vmpss/webpss/backoffice/app/views/journal_viewer/_view_journal.html.erb",
+		"/c/vmpss/webpss/backoffice/app/models/journal_line.rb",
+		"/C/vmpss/webpss/backoffice/app/controllers/store_controller.rb",
+		"/c/vmpss/webpss/backoffice/app/controllers/currency_exchange_rates_controller.rb",
+		"/c/vmpss/webpss/support/models/item_detail.rb",
+		"/c/vmpss/webpss/backoffice/lib/internationalize_for_currency.rb",
+		"/C/vmpss/webpss/backoffice/app/models/staffing_areas.rb",
+		"/c/vmpss/webpss/backoffice/app/controllers/journal_search_controller.rb",
+		"/C/vmpss/webpss/backoffice/app/views/item/_show.html.erb",
+		"/c/vmpss/webpss/backoffice/lib/enc_dec.rb",
+		"/C/qatest/bill/bl_install/corp_install/clean_folder_from_lab.bat",
+		"/C/vmpss/webpss/backoffice/app/models/register.rb",
+		"/c/vmpss/webpss/backoffice/app/controllers/application_controller.rb",
+		"/C/vmpss/webpss/backoffice/app/controllers/active_application_controller.rb",
+		"/C/vmpss/webpss/backoffice/config/config.yml",
+		"/c/vmpss/webpss/backoffice/app/controllers/store_controller.rb",
+		"/c/vmpss/webpss/backoffice/CMAPitcher.log",
+		"/C/vmpss/webpss/backoffice/CMABackofficeServer.properties",
+		"/C/vmpss/webpss/backoffice/app/controllers/pitching_controller.rb",
+		"/C/vmpss/webpss/backoffice/script/pitcher",
+		"/C/vmpss/webpss/backoffice/app/models/cma_log.rb",
+		"/C/vmpss/webpss/backoffice/app/views/user_maintenance/_user_form.html.erb",
+		"/C/vmpss/webpss/backoffice/script/empupdt.rb",
+		"/C/tmp/CMABackoffice.log",
+		"/C/vmpss/webpss/backoffice/script/test_emp.rb",
+		"/C/vmpss/webpss/gems/cma_plu/cma_plu.gemspec",
+		"/C/vmpss/webpss/backoffice/config/states.yml",
+		"/C/vmpss/webpss/backoffice/app/helpers/item_helper.rb",
+		"/C/vmpss/webpss/backoffice/app/models/tax_index.rb",
+		"/C/vmpss/webpss/backoffice/script/add_sleep_to_tlogsend.rb",
+		"/C/vmpss/webpss/backoffice/app/controllers/item_controller.rb",
+		"/C/vmpss/webpss/backoffice/Gemfile",
+		"/C/vmpss/webpss/gems/cma_plu/lib/cma_plu/item.rb",
+		"/C/vmpss/webpss/gems/cma_plu/History.txt",
+		"/C/Users/Jose/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/56NU0Z27/production-20150106.log",
+		"/c/vmpss/webpss/backoffice/app/helpers/application_helper.rb",
+		"/C/vmpss/webpss/backoffice/app/views/shared/_result_area_header.html.erb",
+		"/C/Users/Jose/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/56NU0Z27/production-20150102.log",
+		"/C/vmpss/webpss/backoffice/app/controllers/register_controller.rb",
+		"/C/vmpss/webpss/support/models/item_detail.rb",
+		"/C/vmpss/webpss/backoffice/db/migrate/20141017161723_add_purchasers_email_to_send_rcp_address.rb",
+		"/C/vmpss/webpss/backoffice/db/migrate/20141104183736_add_indexes_multi_tables.rb",
+		"/C/vmpss/webpss/backoffice/app/models/send_rcp_detail.rb",
+		"/C/vmpss/webpss/backoffice/app/apis/base_store_api.rb",
+		"/C/vmpss/webpss/backoffice/db/migrate/20110831181304_add_trans_log_index.rb",
+		"/C/vmpss/webpss/backoffice/app/controllers/send_rcp_address_controller.rb",
+		"/C/vmpss/webpss/backoffice/app/apis/exchange_rate_api.rb",
+		"/C/vmpss/webpss/backoffice/db/migrate/20120912174204_add_email_addr_to_send_rcp.rb",
+		"/C/vmpss/webpss/backoffice/db/migrate/20141017161016_add_purchasers_email_to_send_rcp_address.rb",
+		"/c/vmpss/webpss/backoffice/script/add_accounting_by_register_task.rb",
+		"/C/vmpss/webpss/backoffice/script/add_show_trans_to_lp_level.rb",
+		"/C/vmpss/webpss/backoffice/script/add_employee_types.rb",
+		"/C/vmpss/webpss/backoffice/config/application.rb",
+		"/C/vmpss/webpss/backoffice/config/authlevels.yml",
+		"/C/vmpss/webpss/backoffice/script/add_new_sec_options.rb",
+		"/C/vmpss/webpss/backoffice/config/routes.rb",
+		"/C/vmpss/webpss/backoffice/app/controllers/sdi_maintenance_controller.rb",
+		"/C/vmpss/webpss/backoffice/script/auth_levels_create.rb",
+		"/C/vmpss/webpss/backoffice/app/controllers/security_options_controller.rb",
+		"/C/vmpss/webpss/backoffice/config/environments/production.rb",
+		"/c/vmpss/webpss/gems/cma_user_authorization_2/lib/cma_user_authorization/security_profile.rb",
+		"/c/vmpss/webpss/backoffice/db/migrate/archived_migrations/005_security_profiles.rb",
+		"/c/vmpss/webpss/backoffice/config/initializers/employee_adds.rb",
+		"/c/vmpss/webpss/backoffice/app/controllers/front_desk_controller.rb",
+		"/C/vmpss/webpss/backoffice/config/database.BAK",
+		"/C/vmpss/webpss/backoffice/Von Maur Backoffice.sublime-project",
+		"/C/vmpss/webpss/backoffice/app/views/logon/logon.html.erb",
+		"/C/vmpss/webpss/backoffice/app/helpers/menus_helper.rb",
+		"/C/vmpss/webpss/backoffice/app/controllers/base_store_controller.rb",
+		"/C/vmpss/webpss/backoffice/app/views/layouts/application.html.erb",
+		"/C/vmpss/webpss/backoffice/app/views/shared/_dynamic_menu.html.erb",
+		"/C/vmpss/webpss/backoffice/app/controllers/menus_controller.rb",
+		"/C/vmpss/webpss/backoffice/log/development-20140214.log",
+		"/C/vmpss/webpss/backoffice/app/views/presell_record/index.html.erb",
+		"/C/vmpss/webpss/backoffice/app/controllers/presell_record_controller.rb",
+		"/C/vmpss/webpss/backoffice/app/views/presell_record/process_presells.js.erb",
+		"/C/vmpss/webpss/backoffice/app/models/accounting_store.rb",
+		"/C/vmpss/webpss/backoffice/app/views/menus/_form.rhtml",
+		"/C/vmpss/webpss/backoffice/app/views/journal_viewer/journal_sort_remote.js.erb",
+		"/C/vmpss/webpss/backoffice/app/views/presell_record/_presell_request.html.erb",
+		"/C/vmpss/webpss/backoffice/log/development.log",
+		"/C/vmpss/webpss/backoffice/app/controllers/weekly_sales_controller.rb",
+		"/C/basecpss/webpss/inventory/app/views/item_details/create.js.erb",
+		"/C/basecpss/webpss/inventory/app/controllers/reference_codes_controller.rb",
+		"/C/basecpss/webpss/inventory/app/helpers/application_helper.rb",
+		"/C/basecpss/webpss/inventory/app/models/reference_group_reader.rb",
+		"/C/basecpss/webpss/inventory/config/config.yml",
+		"/C/basecpss/webpss/inventory/Gemfile",
+		"/C/basecpss/webpss/inventory/app/helpers/reference_codes_helper.rb",
+		"/C/basecpss/webpss/inventory/app/assets/javascripts/application.js",
+		"/C/basecpss/webpss/inventory/config/initializers/gaston.rb",
+		"/C/basecpss/webpss/inventory/app/assets/stylesheets/scaffolds.css.scss",
+		"/C/basecpss/webpss/inventory/app/assets/stylesheets/application.css.scss",
+		"/C/basecpss/webpss/inventory/app/views/transactions/_adjustment_trans_header.html.erb",
+		"/C/basecpss/webpss/inventory/app/views/transactions/index.html.erb",
+		"/C/basecpss/webpss/inventory/app/models/inv_config_store.rb",
+		"/C/Users/Jose/AppData/Local/Temp/wza723/CMASafeAudit.log",
+		"/C/basecpss/webpss/inventory/config/gaston/.gitkeep",
+		"/C/basecpss/webpss/inventory/config/environments/development.rb",
+		"/C/basecpss/webpss/inventory/config/application.rb",
+		"/C/basecpss/webpss/inventory/app/views/reference_codes/index.html.erb",
+		"/C/basecpss/webpss/inventory/app/views/reference_codes/create.js.erb",
+		"/C/basecpss/webpss/inventory/app/views/reference_codes/edit.js.erb",
+		"/C/basecpss/webpss/inventory/config/locales/simple_form.en.yml",
+		"/C/basecpss/webpss/inventory/config/initializers/ncrauth.rb",
+		"/C/basecpss/webpss/inventory/db/seeds.rb",
+		"/C/basecpss/webpss/inventory/'c",
+		"/C/basecpss/webpss/inventory/app/assets/javascripts/transaction.js.erb",
+		"/C/basecpss/webpss/inventory/db/migrate/20140202020549_remove_price_from_transaction_detail.rb",
+		"/C/basecpss/webpss/inventory/db/migrate/20140131185817_change_style_size_in_plu.rb",
+		"/C/basecpss/webpss/inventory/db/migrate/20140127195542_create_upcs.rb",
+		"/C/Users/Jose/AppData/Local/Temp/wz248a/CMASafeAudit.log",
+		"/C/Users/Jose/AppData/Local/Temp/wz9a35/development.log",
+		"/C/basecpss/webpss/inventory/Gemfile.lock",
+		"/C/basecpss/webpss/inventory/config/initializers/quiet_assets.rb",
+		"/C/basecpss/webpss/inventory/config/initializers/secret_token.rb",
+		"/C/basecpss/webpss/inventory/config/initializers/session_store.rb",
+		"/C/basecpss/webpss/inventory/config/initializers/api_reload.rb",
+		"/C/basecpss/webpss/inventory/config/initializers/erd.rb",
+		"/C/basecpss/webpss/inventory/config/initializers/wrap_parameters.rb"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"c:\\vmpss\\webpss\\support",
+			"c:\\vmpss\\webpss\\backoffice",
+			"c:\\vmpss\\webpss\\",
+			"c:\\vmpss\\webpss\\backoffice\\",
+			"c:\\vmpss\\webpss\\backoffice\\config",
+			"c:\\vmpss\\webpss\\",
+			"c:\\vmpss\\webpss\\backoffice",
+			"c:\\vmpss\\webpss\\support",
+			"c:\\vmpss\\webpss\\backoffice",
+			"c:\\vmpss\\webpss\\support",
+			"c:\\vmpss\\webpss\\backoffice",
+			"c:\\vmpss\\webpss\\support",
+			"c:\\vmpss\\webpss\\backoffice",
+			"c:\\vmpss\\webpss\\",
+			"c:\\vmpss\\webpss\\backoffice\\",
+			"c:\\vmpss\\webpss\\backoffice\\app\\views\\",
+			"c:\\basecpss\\webpss\\inventory\\",
+			"c:\\basecpss\\webpss\\inventory\\app\\",
+			"c:\\basecpss\\webpss\\inventory\\app\\javascripts\\",
+			"c:\\basecpss\\webpss\\inventory\\",
+			"c:\\basecpss\\webpss\\inventory\\app\\assets\\",
+			"c:\\basecpss\\webpss\\inventory\\app\\assets\\javascripts\\",
+			"c:\\basecpss\\webpss\\inventory\\app\\assets\\*.js",
+			"c:\\basecpss\\webpss\\backoffice",
+			"C:\\blpss\\webpss\\backoffice",
+			"C:\\basecpss\\webpss\\sendserver\\",
+			"C:\\basecpss\\webpss\\send_server\\",
+			"C:\\cmaboot"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"after the set",
+			"index",
+			"radio_button_field_set_with_enable",
+			"def radio_button_field_set_with_enable",
+			"audit_assoc",
+			"audit_assoc_crit_",
+			"audit_assoc_crit_table_col_3",
+			"report_request",
+			"the class",
+			"def notebook_",
+			"set_pin_change",
+			"def store",
+			"prime_auth",
+			"set_the_record",
+			"sha",
+			"@emp_auth",
+			"class Employee",
+			"set_emp_auth",
+			"puts",
+			"hashed_pw",
+			"imports",
+			"client_smart",
+			"sha1",
+			"def open_store",
+			"grab_rates_from_host",
+			"api",
+			"s.domestic_",
+			"corporate",
+			"def set_up_currency_scopes",
+			"currency",
+			"currency_",
+			"_sql_errors",
+			"_sql_error",
+			"just before the save and the record",
+			"In setup of empauth",
+			"Tempfile",
+			"Class Tempfile",
+			"get_dec_string",
+			"EncDec",
+			"index",
+			"view_journal",
+			"def signature_image",
+			"Base64",
+			"sig",
+			"@jrn_line",
+			"signatur",
+			"sig",
+			"get_cs_update_last_date",
+			"Error::",
+			"Sensor",
+			"Sensors",
+			"AppConfig",
+			"catcher_host",
+			"def store",
+			"store_open?",
+			"def notify_log",
+			"notify_log",
+			"v.",
+			"sprintf(\"%0.02f",
+			"sprintf",
+			"PersonalizationReader",
+			"storeID",
+			"persxml",
+			"YAML",
+			"load_",
+			"register.rb",
+			"destroy",
+			"show",
+			"class Item",
+			"logger",
+			"def send_register",
+			"def list",
+			"register.list",
+			"user",
+			"def destroy",
+			"def clean_up",
+			"destroy",
+			"list",
+			"ioerror",
+			"list",
+			"def close",
+			"def list",
+			"if ",
+			"remove",
+			"SecurityProfile",
+			"class SecurityProfile",
+			"mask",
+			"front_desk",
+			"home",
+			"prime_authorizations",
+			"vm_emp_type_arry",
+			"class SecurityProfile",
+			"the_code",
+			"home",
+			"controller= ",
+			"controller = ",
+			"controller",
+			"menu",
+			"main_menu",
+			"control_info",
+			"AccountingStore",
+			"flag",
+			"confirm",
+			"remote",
+			"flash",
+			"gradientbar",
+			"alert-notice",
+			"alert-error",
+			"error",
+			".error",
+			"notice",
+			".notice",
+			".error",
+			"restart",
+			"click",
+			"rake",
+			"ncr-gradient",
+			".where",
+			"SafePeriodicAudit",
+			"SafePeriodic",
+			"SafePeriod",
+			"final_rec",
+			"restart",
+			"final_rec",
+			"error",
+			"login",
+			"error",
+			"restart"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"back_office",
+			"unless ",
+			"add",
+			"@vm_emp_type_arry",
+			" #12AD2B",
+			" 12AD2B",
+			"url(assets/ui-bg_gloss-wave_75_2191c0_500x100",
+			"$cool-grey",
+			"image-url(",
+			"@import"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 32.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/c/vmpss/webpss/backoffice/app/controllers/application_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 396.0,
+	"status_bar_visible": true
+}

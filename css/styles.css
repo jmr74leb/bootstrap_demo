@@ -1,0 +1,15 @@
+.col1{background: #5C7080;}
+
+.col2{background: #6BC0FF;}
+.dark{
+	background: #FFF;
+	color: #6BC0FF;
+}
+.bb1{
+   border: 1px ridge;
+   background: whitesmoke;
+}
+.smoked {
+	border-color: #a6a4c1;
+	border: 1px outset;
+    }
