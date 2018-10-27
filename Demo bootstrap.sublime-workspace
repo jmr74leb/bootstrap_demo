@@ -1,0 +1,633 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"set",
+				"set_cancel_status"
+			],
+			[
+				"bosts",
+				"bosts_inf_ids"
+			],
+			[
+				"bosts_",
+				"bosts_order"
+			],
+			[
+				"bos",
+				"bosts_id"
+			],
+			[
+				"fulfi",
+				"fulfillment_status"
+			],
+			[
+				"track",
+				"track_num"
+			],
+			[
+				"bosts_info",
+				"bosts_infos_id"
+			],
+			[
+				"bosts_in",
+				"bosts_infos_id"
+			],
+			[
+				"total",
+				"total_returns_amount"
+			],
+			[
+				"pickup",
+				"pickup_store"
+			],
+			[
+				"or",
+				"order_number"
+			],
+			[
+				"order",
+				"order_number"
+			],
+			[
+				"gitems",
+				"gitems"
+			],
+			[
+				"end",
+				"end"
+			],
+			[
+				"fulf",
+				"fulfillment_status"
+			],
+			[
+				"dr",
+				"drop_ship_items"
+			],
+			[
+				"reroute",
+				"reroute_order_button"
+			],
+			[
+				"butto",
+				"button_name"
+			],
+			[
+				"fulfillment_",
+				"fulfillment_location"
+			],
+			[
+				"edit_add_",
+				"edit_add_ship_tag"
+			],
+			[
+				"image",
+				"image_url"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1375,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "blog.html",
+			"settings":
+			{
+				"buffer_size": 3100,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 220,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jose/AppData/Roaming/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/C/bootstrap_demos/index.html",
+		"/C/eventmachine/eventmachine-eventmachine-469744a/docs/GettingStarted.md",
+		"/C/eventmachine/eventmachine-eventmachine-469744a/Gemfile",
+		"/C/stagepss/webpss/send_router/config/database.yml",
+		"/C/stagepss/webpss/send_router/app/views/notifications/pickup_items_returned.html.erb",
+		"/C/stagepss/webpss/send_router/app/views/notifications/confirm.html.erb",
+		"/C/stagepss/webpss/send_router/public/stylesheets/style.css",
+		"/C/stagepss/webpss/send_router/app/views/notifications/_new_stage_header.html.erb",
+		"/C/stagepss/webpss/send_router/app/views/notifications/_new_stage_bottom.html.erb",
+		"/C/stagepss/webpss/send_router/app/views/notifications/pickup_initial_confirm.html.erb",
+		"/C/stagepss/webpss/send_router/app/views/notifications/pickup_picked_up.html.erb",
+		"/C/stagepss/webpss/send_router/Gemfile",
+		"/C/bosngpss/webpss/corporate_backoffice/script/.svn/entries",
+		"/C/bosngpss/webpss/support/app/views",
+		"/C/stagepss/webpss/send_router/app/controllers/expired_controller.rb",
+		"/C/stagepss/webpss/send_router/CMASendRouter.properties",
+		"/C/stagepss/webpss/send_router/config/environments/development.rb",
+		"/C/stagepss/webpss/sendserver/app/views/shared/_send_order_top_tool_bar.html.erb",
+		"/C/stagepss/webpss/sendserver/Gemfile",
+		"/C/stagepss/webpss/sendserver/app/controllers/send_orders_config_controller.rb",
+		"/C/stagepss/webpss/sendserver/app/views/send_orders_config/_show.html.erb",
+		"/C/stagepss/webpss/sendserver/public/javascripts/jq-authorize.js",
+		"/C/stagepss/webpss/sendserver/config/database.yml",
+		"/C/stagepss/webpss/sendserver/app/controllers/application_controller.rb",
+		"/C/stagepss/webpss/sendserver/public/javascripts/jq-orderfulfillment.js",
+		"/C/stagepss/webpss/sendserver/public/javascripts/jq-comments.js",
+		"/C/stagepss/webpss/sendserver/app/models/shipping_details.rb",
+		"/C/stagepss/webpss/sendserver/app/helpers/base.rb",
+		"/C/stagepss/webpss/sendserver/app/helpers/order_fulfillment_helper.rb",
+		"/C/stagepss/webpss/sendserver/app/models/order_history.rb",
+		"/C/stagepss/webpss/sendserver/script/t1.rb",
+		"/C/stagepss/webpss/sendserver/app/scripts/t1.rb",
+		"/C/basecpss/webpss/sendserver/public/favicon.ico",
+		"/C/basecpss/webpss/sendserver/db/seeds.rb",
+		"/C/basecpss/webpss/sendserver/public/500.html",
+		"/C/basecpss/webpss/sendserver/public/assets/manifest.yml",
+		"/C/basecpss/webpss/sendserver/app/assets/stylesheets/cbo_print.css.scss",
+		"/C/basecpss/webpss/sendserver/public/assets/application-2cbebd5d50063df6541bb04df86a4c4e.js",
+		"/C/basecpss/webpss/sendserver/public/assets/cmancr_logo-ed5711fda55540c2b0b51674847a4dbf.jpg",
+		"/C/basecpss/webpss/sendserver/public/assets/cmancr_logo.jpg",
+		"/C/basecpss/webpss/sendserver/public/assets/ui-icons_454545_256x240-7652e82379895f045fa4ef0f21256faa.png",
+		"/C/basecpss/webpss/sendserver/app/assets/stylesheets/hyjack.css",
+		"/C/basecpss/webpss/sendserver/app/assets/stylesheets/jquery-ui-1.8.11.custom._cma_red.css",
+		"/C/basecpss/webpss/sendserver/public/assets/application.js",
+		"/C/basecpss/webpss/sendserver/app/helpers/application_helper.rb",
+		"/C/basecpss/webpss/sendserver/app/helpers/formatted_information_helper.rb",
+		"/C/basecpss/webpss/sendserver/app/assets/stylesheets/cbo_fonts.css.scss",
+		"/C/basecpss/webpss/sendserver/config.rb",
+		"/C/basecpss/webpss/sendserver/doc/README_FOR_APP",
+		"/C/basecpss/webpss/sendserver/app/helpers/base.rb",
+		"/C/basecpss/webpss/sendserver/app/models/order.rb",
+		"/C/basecpss/webpss/sendserver/app/controllers/application_controller.rb",
+		"/C/basecpss/webpss/sendserver/app/controllers/order_fulfillment_controller.rbcma",
+		"/C/basecpss/webpss/sendserver/app/assets/images/ncrhead.jpg",
+		"/C/basecpss/webpss/sendserver/app/assets/images/cmancr_logo.jpg",
+		"/C/basecpss/webpss/sendserver/config/initializers/send_common.rb",
+		"/C/basecpss/webpss/sendserver/config/initializers/session_store.rb",
+		"/C/basecpss/webpss/sendserver/app/assets/stylesheets/cbo_colors.css.scss",
+		"/C/basecpss/webpss/sendserver/config/compass.rb",
+		"/C/basecpss/webpss/sendserver/app/views/send_order_search/_send_order_list.html.erb",
+		"/C/basecpss/webpss/sendserver/app/views/send_order_search/reroute_details.html.erb",
+		"/C/basecpss/webpss/sendserver/log/development.log",
+		"/C/basecpss/webpss/sendserver/Gemfile",
+		"/C/basecpss/webpss/sendserver/app/assets/stylesheets/jquery-ui-1.8.11.custom_ncr.css.scss",
+		"/C/basecpss/webpss/sendserver/sass/orders.css.scss",
+		"/C/basecpss/webpss/sendserver/sass/application.css.scss",
+		"/C/basecpss/webpss/sendserver/sass/cbo_colors.css.scss",
+		"/C/basecpss/webpss/sendserver/app/assets/stylesheets/sorter_style.css.scss",
+		"/C/basecpss/webpss/sendserver/app/assets/stylesheets/orders.css.scss",
+		"/C/basecpss/webpss/sendserver/app/assets/javascripts/jquery-ui.js",
+		"/C/basecpss/webpss/sendserver/public/assets/application.css",
+		"/C/basecpss/webpss/sendserver/public/assets/application.css.gz",
+		"/C/basecpss/webpss/sendserver/public/stylesheets/orders.css",
+		"/C/basecpss/webpss/sendserver/config/routes.rb",
+		"/C/basecpss/webpss/sendserver/app/assets/javascripts/jq-hoverintent.js",
+		"/C/basecpss/webpss/sendserver/app/assets/javascripts/jq-orderfulfillment.js",
+		"/C/basecpss/webpss/sendserver/config/environments/development.rb",
+		"/C/basecpss/webpss/sendserver/app/views/send_order_search/_send_order_search_request.html.erb",
+		"/C/basecpss/webpss/sendserver/public/stylesheets/jquery-ui-1.8.11.custom.css",
+		"/C/basecpss/webpss/sendserver/public/stylesheets/cbo_print.css",
+		"/C/basecpss/webpss/sendserver/app/views/layouts/application.html.erb",
+		"/C/cmaboot/Gemfile",
+		"/C/basecpss/webpss/sendserver/app/helpers/send_order_search_helper.rb",
+		"/C/basecpss/webpss/sendserver/app/controllers/cma_log_controller.rb",
+		"/C/basecpss/webpss/sendserver/config/database.ymlcma",
+		"/C/basecpss/webpss/sendserver/config/database.BAK",
+		"/C/basecpss/webpss/sendserver/config/environment.rb",
+		"/C/basecpss/webpss/sendserver/config/application.rb",
+		"/C/basecpss/webpss/sendserver/app/controllers/order_fulfillment_controller.rb",
+		"/C/basecpss/webpss/sendserver/config/database.yml",
+		"/C/basecpss/webpss/sendserver/script/test.rb",
+		"/C/basecpss/webpss/sendserver/config/sendconfig.BAK",
+		"/C/basecpss/webpss/sendserver/config.ru",
+		"/C/basecpss/webpss/send_router/baseCpss-router-send.sublime-workspace",
+		"/C/tmp/sc131112.dat",
+		"/C/cmaboot/app/models/.gitkeep",
+		"/C/cmaboot/app/views/articles/_form.html.erb",
+		"/C/cmaboot/app/views/articles/edit.html.erb",
+		"/C/cmaboot/config/initializers/devise.rb",
+		"/C/cmaboot/app/controllers/application_controller.rb",
+		"/C/cmaboot/app/views/devise/sessions/new.html.erb",
+		"/C/cmaboot/app/assets/images/cmancr.logosmaller.jpg",
+		"/C/cmaboot/app/assets/images/ncrbackground.jpg",
+		"/C/cmaboot/app/assets/javascripts/bootstrap.min.js",
+		"/C/cmaboot/log/development.log",
+		"/C/cmaboot/app/views/layouts/_navigation.html.erb",
+		"/C/cmaboot/app/assets/sass/bootstrap.css.scss",
+		"/C/cmaboot/app/assets/javascripts/bootstrap.js",
+		"/C/cmaboot/app/assets/javascripts/application.js",
+		"/C/cmaboot/app/assets/stylesheets/scaffolds.css.scss",
+		"/C/cmaboot/config.rb",
+		"/C/cmaboot/Gemfile.BAK"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\stagepss\\webpss\\send_router\\",
+			"C:\\stagepss\\webpss\\send_router\\app\\",
+			"C:\\stagepss\\webpss\\send_router\\app\\views",
+			"C:\\stagepss\\webpss\\send_router\\app\\",
+			"C:\\stagepss\\webpss\\send_router\\app\\views\\notifications\\",
+			"C:\\stagepss\\webpss\\send_router\\app\\views\\notifications",
+			"C:\\stagepss\\webpss\\send_router",
+			"C:\\stagepss\\webpss\\sendserver",
+			"C:\\stagepss\\webpss\\sendserver\\app\\views\\",
+			"C:\\stagepss\\webpss\\sendserver\\public\\javascripts",
+			"C:\\stagepss\\webpss\\sendserver\\",
+			"C:\\stagepss\\webpss\\sendserver\\public\\javascripts\\",
+			"C:\\stagepss\\webpss\\sendserver\\",
+			"C:\\basecpss\\webpss\\sendserver\\",
+			"C:\\basecpss\\webpss\\send_server\\",
+			"C:\\cmaboot"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"just one",
+			"img",
+			"amazon",
+			"js/sc",
+			"nav.html",
+			"js/scr",
+			"js/sccr",
+			"css",
+			"this_is_bost_split",
+			"modify_cust",
+			"email_test",
+			"test",
+			"@cancel_status",
+			"get_mail_text",
+			"subit",
+			"in the new and @order",
+			"route away",
+			"set_bosts_flag",
+			"get_curr_bosts_flag",
+			"send_email_reminder",
+			"bosts_id",
+			"set_bosts_flag",
+			"def get_curr_bosts_flag",
+			"def get_data",
+			"def process_item_group",
+			"def group_items",
+			"group_items",
+			"def group_items",
+			"def process_item_group",
+			"def group_items",
+			"process_item_group",
+			"def group_items",
+			".deliver",
+			"bost_id",
+			"notific",
+			"notifin",
+			"notifi",
+			"@pickup_store",
+			"set_bosts_flag",
+			"process_item_group",
+			"group_item",
+			"def group_",
+			"def group_items",
+			"process_item_group",
+			"set_bosts_flag",
+			"def set_bosts_flag",
+			"Routing",
+			"bill_to",
+			"net_tenders",
+			"send_email",
+			"order_date",
+			"_test",
+			"test_",
+			"@pickup_store",
+			"bosts",
+			"@shipping",
+			"neworder",
+			"new_order",
+			"ship",
+			"shipping_method",
+			"SendCommon",
+			"shipper_track_num",
+			"bost_order",
+			"bost_order?",
+			"cma_log",
+			"set_logo",
+			"except ",
+			"@template_info",
+			"pikup",
+			"Router",
+			"barby",
+			"Sendserver[",
+			"@order,'purch'",
+			"emailaddr",
+			"font",
+			"Picked Up On",
+			"/div>",
+			"Verdana",
+			"font",
+			"order.nil?",
+			"@pickup_store",
+			"Standard",
+			"SendServer",
+			"Routing has been turned ",
+			"process_item_group",
+			"def process",
+			"Processing",
+			"process_item_group",
+			"has been turned off",
+			"smtp",
+			"real_items",
+			"confirm",
+			"deliver",
+			"get_allow_auto_cancel",
+			"allow_auto_can",
+			"allow_order_cancel",
+			"set_cancels",
+			"allow",
+			"cancel",
+			"auto_cancel",
+			"_",
+			"auto",
+			"cancel",
+			"allow_order",
+			"store_tlog_up",
+			"AUTOCANCEL",
+			"auto",
+			"auto cancel",
+			"cvp",
+			"email-local",
+			"cancels",
+			"Not in array",
+			"not in array",
+			"a_drop_ship_item",
+			"a_drop",
+			"click",
+			"referer",
+			"referrer",
+			"set_to_cancelled",
+			"cancel",
+			"cancel_ship",
+			"def cancel_ship",
+			"cancel",
+			"allow_cancels",
+			"def get_items",
+			"cancel-select-table",
+			"cancel_selec",
+			"cancel_select_table"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Routing",
+			"Router[",
+			"@order",
+			"$cool-grey",
+			"image-url(",
+			"@import"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1375
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 409.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "blog.html",
+					"settings":
+					{
+						"buffer_size": 3100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2057,
+								2057
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 629.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/bootstrap.css",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "css/styles.css",
+					"settings":
+					{
+						"buffer_size": 220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true
+}
